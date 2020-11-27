@@ -1,3 +1,3 @@
-module github.com/yedemon/crtc-token-service
+module github.com/yedemon/crtctokenservice
 
 go 1.15
